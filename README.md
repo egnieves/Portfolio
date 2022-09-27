@@ -2,4 +2,4 @@
 This works
 # [Hedonic](https://github.com/egnieves/egnieves.github.io)
 * does it work??
-theme:minimal
+remote_theme: pages-themes/minimal@v0.2.0
